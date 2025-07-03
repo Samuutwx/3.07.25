@@ -15,5 +15,5 @@
 4.Sus botones:
  Va a incluir varios botones para diversas acciones. Estos botones se encuentran principalmente en la interfaz de la página de inicio, en los perfiles de usuario y debajo de cada publicación. Los más comunes son los botones para responder, dar "me gusta" y seguir, además de los botones de navegación para acceder a diferentes secciones de la plataforma.
 
- 5. En el apartado para publicar tu opinion tiene que tener varias herramientas ya sea para llamar enlaces,imagenes,un video pero que automaticamente lo resuma para que personas no se quejen de que es muy largo,etc..
+5. En el apartado para publicar tu opinion tiene que tener varias herramientas ya sea para llamar enlaces,imagenes,un video pero que automaticamente lo resuma para que personas no se quejen de que es muy largo,etc..
  
