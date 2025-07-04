@@ -1,3 +1,8 @@
+
+
+#DIARIO DEL PROGRAMADORRRR
+
+
 ## Esta es la idea de mi proyecto:
 > Quiero crear una pagina web para que las personas publiquen sus ideas/soluciones al cambio climatico, esta pagina debe ser super enfocada en esto y decorada ya que si no fuera asi las personas usaria cualquier red social para publicar eso entonces:
 1. La pagina debe ser facil de compartir y llamativa.
@@ -17,3 +22,6 @@
 
 5.En el apartado para publicar tu opinion tiene que tener varias herramientas ya sea para llamar enlaces,imagenes,un video pero que automaticamente lo resuma para que personas no se quejen de que es muy largo,etc..
  
+Cambios.
+
+1.Es viable en cierta parte pero no muy en lo mas importante que es el tipo o que ud dijo de el dom entonces siento que seria mejor barajar mas ideas como un cuestonario.
