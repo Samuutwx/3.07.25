@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+      <meta charset="UTF-8" />
+      <link rel="stylesheet" href="static\css\boton.css">
+      <title>Sube tu idea</title>
+</header>
+
+<body>
+  <h1>Comparte tu idea para cuidar el mar</h1>
+
+  <form action="/ideas" method="POST">
+    <textarea name="idea" rows="5" cols="40" placeholder="Escribe tu idea aquí..."></textarea><br><br>
+    <button type="submit">Enviar</button>
+  </form>
+
+  <h2>Ideas de otras personas:</h2>
+  <ul>
+    {% for idea in ideas %}
+      <li>{{ idea }}</li>
+    {% else %}
+      <li>Aún no hay ideas publicadas.</li>
+    {% endfor %}
+  </ul>
+
+  <a href="/">Volver al inicio</a>
+</body>
+</html>
